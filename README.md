@@ -1,5 +1,14 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+## Vars
+
+# Required vars
+
+DATABASE_URL="postgresql://user:pass@localhost:5433/game-ai"
+
+BETTER_AUTH_SECRET="12321"
+BETTER_AUTH_URL="http://localhost:3000"
+
 ## Getting Started
 
 First, run the development server:
